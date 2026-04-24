@@ -11,7 +11,7 @@ Listar todos
 Listar pelo id
 <img width="1798" height="681" alt="image" src="https://github.com/user-attachments/assets/033a8cfa-5dbd-4f7c-9561-74771328e26f" />
 Atualizar pelo id
-<img width="1798" height="681" alt="image" src="https://github.com/user-attachments/assets/5747e4e7-975d-4a6d-bd34-f86558372f17" />
+<img width="1797" height="675" alt="image" src="https://github.com/user-attachments/assets/75ffb1ad-68a4-426a-a942-af50c2b33929" />
 Deletar pelo id
 <img width="1798" height="681" alt="image" src="https://github.com/user-attachments/assets/e63a48f6-74dd-4217-86b0-0fd4d840fabf" />
 
